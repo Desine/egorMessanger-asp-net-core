@@ -1,0 +1,6 @@
+@egorMessenger_HostAddress = http://localhost:5070
+
+GET {{egorMessenger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
